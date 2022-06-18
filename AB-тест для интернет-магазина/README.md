@@ -1,7 +1,7 @@
 > **Анализ поведения пользователей мобильного приложения.**
 
 Инструменты
-Pandas, matplotlib.pyplot, scipy, numpy, seaborn, plotly, Статистический анализ, A/B тест.
+Pandas, matplotlib.pyplot, scipy, numpy, seaborn, plotly.
 
 **Описание проекта**
 - Построение воронки продаж, путь пользователей до покупки.
